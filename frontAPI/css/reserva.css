@@ -1,0 +1,24 @@
+@import url(header.css);
+
+.reservarForm {
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+}
+
+.corpo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-color: rgba(211, 98, 98, 0.582);
+}
